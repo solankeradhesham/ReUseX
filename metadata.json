@@ -1,0 +1,6 @@
+{
+  "name": "ReuseX - Buy & Sell Used Goods in India",
+  "description": "India's premier marketplace to buy and sell used cars, bikes, mobiles, electronics, furniture, and real estate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
